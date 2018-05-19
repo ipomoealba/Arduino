@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Uniduino/Tutorials/Blink Button/BlinkButton.unity
+  isLoaded: 1
+  isActive: 1
